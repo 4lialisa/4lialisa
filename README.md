@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alia Alisa</h1>
+<h1 align="center">Holla 👋, Alia Alisa here</h1>
 <h3 align="center">Studied in Bachelor of Computer Science (Hons) Artificial Intelligence and I'm from Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4lialisa&label=Profile%20views&color=0e75b6&style=flat" alt="4lialisa" /> </p>
 
-- 🌱 I’m currently learning **Web Development Prototype using Figma**
-
-- 📫 How to reach me **lisaliya54@gmail.com**
-
-- ⚡ Fun fact **I am fast learner**
+- 🎓 I'm a fresh graduate from **Multimedia University** and wish to look for job opportunities.
+- 🌱 I’m currently interested in **Web Development Prototype using Figma** and **Machine Learning**
+- 📫 You may reach me via **lisaliya54@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
