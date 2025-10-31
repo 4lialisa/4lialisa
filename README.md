@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alia Alisa</h1>
-<h3 align="center">Graduated with a Bachelor of Computer Science (Hons) in Artificial Intelligence from Malaysia</h3>
+<h3 align="center">Studied in Bachelor of Computer Science (Hons) Artificial Intelligence and I'm from Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4lialisa&label=Profile%20views&color=0e75b6&style=flat" alt="4lialisa" /> </p>
 
